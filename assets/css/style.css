@@ -324,7 +324,7 @@ h1, h2, h3, h4, h5, h6 {
   width: 100%;
   overflow: hidden;
   position: relative;
-  background-image: linear-gradient(rgba(64, 63, 68, 0.9), rgba(35, 33, 194, 0.9)), url('../img/features-5.jpg');
+  background-image: linear-gradient(rgba(64, 63, 68, 0.9), rgba(35, 33, 194, 0.9)), url('../img/banner.jpg');
   background-size: cover;
   background-position: center center;
   background-attachment: fixed;
